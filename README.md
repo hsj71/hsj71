@@ -1,5 +1,4 @@
 ## Hi there 👋
-Star GIF
 <!--
 **hsj71/hsj71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
