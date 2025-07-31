@@ -1,6 +1,7 @@
 ## Hi there 👋
 <div><h3>I am </h3><h1> Hrishikesh Jadhav | Computer Engineer</h1></div>
 <br/>
+
 ---
 
 Passionate Computer Engineer with a strong foundation in **Software Development**, **Web Technologies**, **System Design**, and **AI/ML**. I build scalable, performant solutions and enjoy solving real-world problems through code and innovation.
