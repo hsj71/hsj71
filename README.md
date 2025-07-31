@@ -60,18 +60,18 @@ E-commerce frontend in **React + Vite** with category filter & responsive UI
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=web)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=web)]
+[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)]
 
 ---
 
