@@ -46,7 +46,7 @@ Portable Python GUI to search, parse, and save Wikipedia content
 E-commerce frontend in **React + Vite** with category filter & responsive UI  
 `🛒 Functional cart, smooth navigation, category buttons, mobile-first design`
 
-### ...
+### 🔹[ ... ]
 ---
 
 ## 🏆 Achievements
