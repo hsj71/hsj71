@@ -30,22 +30,23 @@ Passionate Computer Engineer with a strong foundation in **Software Development*
 
 ## 🚀 Featured Projects
 
-### 🔹 [Reactfolio – Developer Portfolio](https://github.com/yourusername/reactfolio)
+### 🔹 [Reactfolio – Developer Portfolio]
 Elegant and dynamic developer portfolio built with **React + Vite**  
 `✨ Typewriter, Framer Motion, Project Viewer, Tech Stack Cards, Embedded Docs`
 
-### 🔹 [LearnMore – Programming Course Hub](https://learnmore-2zbn.onrender.com/)
+### 🔹 [LearnMore – Programming Course Hub]
 Multi-page web app to learn various programming languages  
 `📚 Dynamic Routing, Language Cards, Embedded Docs Viewer, Responsive Design`
 
-### 🔹 [Wikipedia Scraper Tool](https://github.com/yourusername/wikipedia-scraper)
+### 🔹 [Wikipedia Scraper Tool]
 Portable Python GUI to search, parse, and save Wikipedia content  
 `🔍 Built with Tkinter, Wikipedia API, BeautifulSoup, Minimal Dependencies`
 
-### 🔹 [E-Commerce – Fruit Store](https://github.com/yourusername/fruit-store)
+### 🔹 [E-Commerce – Fruit Store]
 E-commerce frontend in **React + Vite** with category filter & responsive UI  
 `🛒 Functional cart, smooth navigation, category buttons, mobile-first design`
 
+### ...
 ---
 
 ## 🏆 Achievements
