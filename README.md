@@ -54,7 +54,7 @@ E-commerce frontend in **React + Vite** with category filter & responsive UI
 - 🌟 Built and deployed 10+ full-stack and frontend projects
 - 👥 Contributed to open source and collaborated with global developers
 - 💬 Participated in Hackathons, LeetCode contests & Dev community events
-- 🧩 Solved 500+ DSA problems across LeetCode, GeeksforGeeks, and Codeforces
+- 🧩 Solved DSA problems across LeetCode, GeeksforGeeks, and Codeforces
 
 ---
 
