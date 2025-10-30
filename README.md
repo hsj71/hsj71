@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p><h3>I am </h3><h1> Hrishikesh Jadhav | Computer Engineer</h1></p>
+<span><h3>I am </h3><h1> Hrishikesh Jadhav | Computer Engineer</h1></span>
 <br/>
 
 ---
