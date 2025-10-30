@@ -55,7 +55,7 @@ Passionate Computer Engineer with a strong foundation in **Software Development*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=web)]
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)]
+
 
 ---
 
