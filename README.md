@@ -52,7 +52,6 @@ Passionate Computer Engineer with a strong foundation in **Software Development*
 
 ## 📬 Connect with Me
 
-[![LinkedIn]]
 [![GitHub](https://github.com/hsj71)]
 [![Public Portfolio](https://17hrishi.github.io/PPortfolio/)]
 
