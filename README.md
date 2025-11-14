@@ -52,9 +52,9 @@ Passionate Computer Engineer with a strong foundation in **Software Development*
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=web)]
+[![LinkedIn]]
+[![GitHub](https://github.com/hsj71)]
+[![Public Portfolio](https://17hrishi.github.io/PPortfolio/)]
 
 
 ---
