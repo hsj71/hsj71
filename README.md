@@ -56,7 +56,7 @@ I work across <strong>Full-Stack Development</strong>, <strong>System Design</st
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=compact&theme=github_dark" />
 </p>
 
