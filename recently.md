@@ -1,3 +1,12 @@
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=tru&rank_icon=github&include_all_commits=true,contribs&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=donut&theme=transparent" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 🔹 [Reactfolio – Developer Portfolio]
