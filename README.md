@@ -54,7 +54,7 @@ I work across <strong>Full-Stack Development</strong>, <strong>System Design</st
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hsj71&theme=github-compact)
 
 ---
 
