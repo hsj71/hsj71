@@ -1,3 +1,6 @@
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hsj71&theme=github-compact)
+
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hsj71&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
