@@ -55,9 +55,8 @@ I work across <strong>Full-Stack Development</strong>, <strong>System Design</st
 
 ## 📈 GitHub Stats
 ![Streak](https://streak-stats.demolab.com?user=hsj71&theme=tokyonight&hide_border=true&cache_seconds=86400)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=compact&theme=transparent&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsj71&layout=compact&theme=transparent&hide_border=true)
+
 
 
 
