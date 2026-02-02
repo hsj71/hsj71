@@ -1,3 +1,24 @@
+# 👋 Hi, I'm Hrishikesh
+
+💻 Frontend / React Developer  
+📍 India  
+🚀 Building projects with React, Node, and modern UI
+
+---
+
+## 📈 GitHub Activity
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hsj71&theme=github-compact)
+
+---
+
+## 🏅 GitHub Badges
+
+![Followers](https://img.shields.io/github/followers/hsj71?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/hsj71?label=Stars&style=for-the-badge)
+
+
+
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hsj71&theme=github-compact)
 # Hi 👋 I'm Hrishikesh
 
