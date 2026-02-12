@@ -50,12 +50,6 @@ I work across <strong>Full-Stack Development</strong>, <strong>System Design</st
 - 🤝 Contributed to **open-source repositories**
 - 🧩 Solved DSA problems on **LeetCode**, **GFG**
 
-
----
-
-## 📈 GitHub Stats
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hsj71&theme=github-compact)
-
 ---
 
 ## 📬 Connect with Me
