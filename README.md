@@ -12,8 +12,8 @@ I work across <strong>Full-Stack Development</strong>, <strong>System Design</st
 ## 🚀 About Me
  
 - 🤖 Explore AI/ML concepts and integrate them into practical applications  
-- 🎯 Strong foundations in **Data Structures**, **Algorithms**, and **Software Engineering**
-- 🔧 I build full-stack apps using **Django**, **React**, **Node.js**, and modern tooling 
+- 🎯 Strong foundations in **Data Structures**, **Algorithms**, and **Computer Engineering**
+- 🔧 I build full-stack apps using  **React**, **Node.js**, and modern tooling 
 - 💡 Love solving complex problems and improving system performance  
 - 🌱 Always learning, experimenting, and improving
 
