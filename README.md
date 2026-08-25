@@ -1,7 +1,5 @@
 ## 👋 Hi there!
 
-<h1 align="center">I'm <span style="color:#4FC3F7">Hrishikesh Jadhav</span></h1>
-
 <p align="center">
 A passionate <strong>Computer Engineer</strong> who loves building fast, scalable, and meaningful digital experiences.  
 I work across <strong>Full-Stack Development</strong>, <strong>System Design</strong>, and <strong>AI/ML</strong>, and enjoy turning ideas into real-world solutions.
