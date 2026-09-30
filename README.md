@@ -64,9 +64,8 @@
 
 ##  Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hsj71)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://github.com/hsj71)
 
 ---
 
 <p align="center"><em>“Building solutions, learning continuously, and sharing knowledge.”</em></p>
----
