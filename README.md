@@ -1,22 +1,18 @@
 ##  Hi!
 
-<p align="center">
-
-</p>
-
 ---
 
-## 🚀 About Me
+##  About Me
  
-- 🤖 Explore AI/ML concepts and integrate them into practical applications  
-- 🎯 Strong foundations in **Data Structures**, **Algorithms**, and **Computer Engineering**
-- 🔧 I build full-stack apps using  **React**, **Node.js**, and modern tooling 
-- 💡 Love solving complex problems and improving system performance  
-- 🌱 Always learning, experimenting, and improving
+-  Explore AI/ML concepts and integrate them into practical applications  
+-  Strong foundations in **Data Structures**, **Algorithms**, and **Computer Engineering**
+-  I build full-stack apps using  **React**, **Node.js**, and modern tooling 
+-  Love solving complex problems and improving system performance  
+-  Always learning, experimenting, and improving
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -24,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
 
 ### **Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -45,7 +42,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-
+---
 
 ### **Tools & Platforms**
 
@@ -57,18 +54,19 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🚀 Built & deployed **10+ full-stack and frontend projects**
-- 🤝 Contributed to **open-source repositories**
-- 🧩 Solved DSA problems on **LeetCode**, **GFG**
+-  Built & deployed **10+ full-stack and frontend projects**
+-  Contributed to **open-source repositories**
+-  Solved DSA problems on **LeetCode**, **GFG**
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hsj71)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://17hrishi.github.io/PPortfolio/)
 
 ---
 
 <p align="center"><em>“Building solutions, learning continuously, and sharing knowledge.”</em></p>
+---
