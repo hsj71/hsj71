@@ -64,7 +64,7 @@
 
 ##  Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hsj71)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://17hrishi.github.io/PPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)]
 
 ---
 
